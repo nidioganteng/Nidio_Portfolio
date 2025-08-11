@@ -10,22 +10,22 @@ export const myProjects = [
     ],
     href: "https://betazeta.carrd.co/",
     logo: "",
-    image: "/assets/projects/betazeta.png",
+    image: "assets/projects/betazeta.png",
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/assets/logos/html5.svg",
+        path: "assets/logos/html5.svg",
       },
       {
         id: 2,
         name: "CSS",
-        path: "/assets/logos/css3.svg",
+        path: "assets/logos/css3.svg",
       },
       {
         id: 3,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: "assets/logos/javascript.svg",
       },
     ],
   },
